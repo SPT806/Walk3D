@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## Abstract
 
 This paper introduces Walk3D, a novel 3D Gaussian Splatting (3DGS) framework
