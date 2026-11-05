@@ -8,6 +8,10 @@
 <a href="https://arxiv.org"><img src="https://img.shields.io/badge/Paper-PDF-brightgreen?logo=arXiv" alt="Paper"></a>
 <a href="https://github.com/SPT806/Walk3D"><img src="https://img.shields.io/badge/Code-Page-blue?logo=github" alt="Code"></a>
 
+</div>
+
+---
+
 ## Abstract
 
 This paper introduces Walk3D, a novel 3D Gaussian Splatting (3DGS) framework
@@ -27,10 +31,6 @@ chain to accurately segment the referred target. Extensive experiments on comple
 method in interpreting lengthy, multi-conditional queries.
 <!-- Teaser 图居中展示 -->
 <img src="https://github.com/user-attachments/assets/0367eeee-0e4b-4598-b482-08619e7a2cea" width="95%" alt="Walk3D Teaser">
-
-</div>
-
----
 
 ## 📌 Status
 Code and pretrained models are coming soon! Stay tuned.
