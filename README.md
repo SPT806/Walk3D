@@ -8,7 +8,6 @@
 <a href="https://arxiv.org"><img src="https://img.shields.io/badge/Paper-PDF-brightgreen?logo=arXiv" alt="Paper"></a>
 <a href="https://github.com/SPT806/Walk3D"><img src="https://img.shields.io/badge/Code-Page-blue?logo=github" alt="Code"></a>
 
-<br><br>
 ## Abstract
 
 This paper introduces Walk3D, a novel 3D Gaussian Splatting (3DGS) framework
